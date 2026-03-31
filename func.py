@@ -7,3 +7,4 @@ def check_even_odd(n):
 # Test
 print(check_even_odd(10))
 print(check_even_odd(3))
+# Output: Hello world!
